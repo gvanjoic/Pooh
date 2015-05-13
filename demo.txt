@@ -1,4 +1,4 @@
 this is file 2
 I am the intruder
-
+Another line added
 added line 2
